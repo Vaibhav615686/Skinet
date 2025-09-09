@@ -4,6 +4,5 @@ services:
    environment:      
      ACCEPT_EULA: "Y"
      MSSQL_SA_PASSWORD: "Password@1"
-   platform: "linux/amd64"
    ports:
    - "1433:1433"

@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+API/SELECT TOP (1000) \[Id].sql
+API/SELECT TOP (1000) \[MigrationId].sql
